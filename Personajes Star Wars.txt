@@ -1,0 +1,20 @@
+1, Anakin Skywalker, src//Imágenes//Anakin Skywalker.png
+2, Luke Skywalker, src//Imágenes//Luke Skywalker.png
+3, Leia Organa, src//Imágenes//Leia Organa.png
+4, Darth Vader, src//Imágenes//Darth Vader.png
+5, Obi-Wan Kenobi, src//Imágenes//Obi-Wan Kenobi.png
+6, Yoda, src//Imágenes//Yoda.png
+7, Han Solo, src//Imágenes//Han Solo.png
+8, Chewbacca, src//Imágenes//Chewbacca.png
+9, Rey, src//Imágenes//Rey.png
+10, Finn, src//Imágenes//Finn.png
+11, Poe Dameron, src//Imágenes//Poe Dameron.png
+12, Kylo Ren, src//Imágenes//Kylo Ren.png
+13, Ahsoka Tano, src//Imágenes//Ahsoka Tano.png
+14, BB-8, src//Imágenes//BB-8.png
+15, C-3PO, src//Imágenes//C-3PO.png
+16, Darth Maul, src//Imágenes//Darth Maul.png
+17, Emperor Palpatine, src//Imágenes//Emperor Palpatine.png
+18, Boba Fett, src//Imágenes//Boba Fett.png
+19, StormTrooper, src//Imágenes//StormTrooper.png
+20, R2-D2, src//Imágenes//R2-D2.png

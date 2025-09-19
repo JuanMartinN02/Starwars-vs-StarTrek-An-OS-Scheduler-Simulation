@@ -1,0 +1,33 @@
+1, James T. Kirk, src//Imágenes//Kirk.png
+2, Spock, src//Imágenes//Spock.png
+3, Leonard McCoy, src//Imágenes//Leonard McCoy.png
+4, Jean-Luc Picard, src//Imágenes//Jean-Luc Picard.png
+5, Data, src//Imágenes//Data.png
+6, Worf, src//Imágenes//Worf.png
+7, Deanna Troi, src//Imágenes//Deanna Troi.png
+8, Beverly Crusher, src//Imágenes//Beverly Crusher.png
+9, Geordi La Forge, src//Imágenes//Geordi La Forge.png
+10, Riker, src//Imágenes//Riker.png
+11, Q, src//Imágenes//Q.png
+12, Wesley Crusher, src//Imágenes//Wesley Crusher.png
+13, Chakotay, src//Imágenes//Chakotay.png
+14, Sulu, src//Imágenes//Sulu.png
+15, Uhura, src//Imágenes//Uhura.png
+16, Scotty, src//Imágenes//Scotty.png
+17, Odo, src//Imágenes//Odo.png
+18, Kira Nerys, src//Imágenes//Kira Nerys.png
+19, Benjamin Sisko, src//Imágenes//Benjamin Sisko.png
+20, Seven of Nine, src//Imágenes//Seven of Nine.png
+
+
+
+
+
+
+
+ 
+
+
+
+
+
